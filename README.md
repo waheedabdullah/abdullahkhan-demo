@@ -1,4 +1,4 @@
 # abdullahkhan-demo
 this is my first git repository
 <br>
-author-abdullah khan
+author-abdullah (apna collage)
